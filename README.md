@@ -3,7 +3,7 @@
 This is a **frontend project** built to explore and learn **Next.js** and **Shadcn UI**.  
 It demonstrates how to structure a modern web application using React, TypeScript, and a component-based design system.
 
-🌐 **Live Demo:** [View Deployment on Vercel](https://my-qxbxnh4qg-trungnguyen1221999s-projects.vercel.app/)
+🌐 **Live Demo:** [View Deployment on Vercel](https://my-app-five-omega-40.vercel.app/)
 
 ---
 
