@@ -20,10 +20,9 @@ It demonstrates how to structure a modern web application using React, TypeScrip
 ## 🧠 Project Purpose
 
 This project was created as a personal learning exercise to:
-- Understand the fundamentals of **Next.js** (routing, server components, and API routes)
+- Understand the fundamentals of **Next.js** (client components, server components)
 - Practice using **Shadcn UI** for building modern, accessible, and reusable components
 - Explore **component-driven development** and **responsive design** with Tailwind CSS
-- Learn about the **deployment process** with Vercel
 
 ---
 
