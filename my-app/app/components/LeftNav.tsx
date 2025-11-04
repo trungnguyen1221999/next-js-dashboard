@@ -1,4 +1,3 @@
-import { ModeToggle } from './ModeToggle'
 import { 
   Heart, 
   LayoutDashboard, 
@@ -77,9 +76,7 @@ const LeftNav = () => {
       </nav>
 
         {/* Bottom Section */}
-        <div className="mt-auto pt-6 space-y-3">
-          <ModeToggle />
-          
+        <div className="mt-auto pt-6">
           {/* Logout Button */}
           <button className="w-full flex items-center gap-3 px-3 py-2 rounded-lg transition-colors group text-left hover:bg-destructive/10">
             <LogOut className="h-5 w-5 text-destructive" />
